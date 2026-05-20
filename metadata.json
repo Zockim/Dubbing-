@@ -1,0 +1,6 @@
+{
+  "name": "AI Dubbing Player",
+  "description": "A web-based video player that supports AI text-to-speech dubbing using subtitle (.srt) files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
